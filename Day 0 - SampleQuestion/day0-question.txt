@@ -1,0 +1,45 @@
+Dimension of a photo is denoted as W x H, where :
+    W - Width of the photo
+    H - Height of the photo
+
+When any photo is uploaded, following events may occur:
+    1. If any one of the width or height is less than L, the user
+       is prompted to upload another one. Print "CHANGE" in this case.
+    2. If width and height, both are large enough, and,
+        (a) if the photo is already squared and size is L x L,
+            then it is accepted. Print "ACCEPTED" in this case.
+        (b) else user is prompted to crop it. 
+            Print "CROP" in this case.
+
+Input Format:
+The input contains L and followed by two space-separated integers
+W and H in next line.
+
+Output Format:
+Print approprieate text for each photo in a new line.
+The output should be in Uppercase.
+
+Code constraints:
+    1 <= L <= 1000
+    1 <= W <= 1000
+    1 <= H <= 1000
+
+Sample testcases:
+
+Input 1             Output 1
+180                 ACCEPTED
+180 180
+
+Input 2             Output 2
+150                 CROP
+640 540
+
+Input 3             Output 3
+175                 CHANGE
+160 180
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing
