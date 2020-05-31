@@ -1,0 +1,13 @@
+Write a program to interpret a number plate number and find the state it belongs to and is
+it a fancy number or not.
+Assume only these 3 state vehicles are only passing.
+TN - Tamilnadu
+KL - Kerala
+KA - Karnataka
+The last 4 digits in the number plate is considered fancy if it is any one of the
+following category.
+1. single digit number 1 to 9
+2. strictly continuous numbers ex. 1234,12,5678
+3. all same digits ex. 1111,88
+
+Input must be the entire number plate information as a single string
