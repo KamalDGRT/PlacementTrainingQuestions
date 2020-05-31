@@ -1,0 +1,23 @@
+Write a program to check an user ID is valid or not. Assume the user ID is valid only if it
+follows rules like,
+1. One uppercase (A-Z) and one lowercase (a-z) English letters
+2. Digits (0-9)
+3. Special characters allowed is . (dot) provided that it is not the first or last character
+   and it will not come one after the other(double dots like..)
+
+Input format
+User Id as String
+
+Output format
+Valid or Invalid along with user Id as shown in sample Output
+
+Sample testcases
+Input 1                    Output 1
+Anu.123                    Anu.123 is Valid      
+
+Input 2                    Output 2
+.anu                       .anu is Invalid
+
+Note:
+The program will not be evaluated if "Submit Code" is not done atleast once
+Extra spaces and new line characters in the program Output will also result in the testcase failing

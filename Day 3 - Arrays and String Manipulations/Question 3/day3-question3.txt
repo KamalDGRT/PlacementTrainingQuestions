@@ -1,0 +1,26 @@
+Given an array A consist of N number of elements. If the sum of the element is "even" print the sum of
+the element. If the sum of the element is "odd" print the product of the element.
+
+Input format
+The first line of input contains the number of elements N
+The second line of input represents the elements A1,A2,A3.....AN
+
+Output format
+Print the desired result
+
+Sample testcases
+Input 1                      Output 1
+5                            14
+1 2 3 4 4 
+
+Input 2                      Output 2
+4                            52000
+10 20 52 5
+
+Time Limit : 10 ms
+Memory Limit : 256 kb
+Code size : 1024 kb
+
+Note:
+The program will not be evaluated if "Submit Code" is not done atleast once
+Extra spaces and new line characters in the program output will also result in the testcase failing

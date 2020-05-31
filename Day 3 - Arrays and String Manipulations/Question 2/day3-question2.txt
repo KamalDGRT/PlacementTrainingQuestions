@@ -1,0 +1,22 @@
+Write a program to find the transpose of a given matrix.
+
+Input format
+Number of rows and columns in first line separated by space
+Matrix elements
+
+Output format
+Transpose of matrix elements
+
+Sample testcases
+Input 1                             Output 1
+2 3                                 1 4
+1 2 3                               2 5
+4 5 6                               3 6
+
+Time Limit : 10 ms
+Memory Limit : 256 kb  
+Code Size : 1024 kb
+
+Note:
+The program will not be evaluated if "Submit Code" is not done atleast once
+Extra spaces and new line characters in the program output will also result in the testcase failing
