@@ -1,0 +1,32 @@
+Given a linked list, write a funciton to reverse.
+
+If a linked list is given as  1 -> 2 -> 3 -> 4 -> 5 -> 6 
+and then the output would be  6 -> 5 -> 4 -> 3 -> 2 -> 1 
+
+
+Input Format:
+Number of list elements followed by list elements in each line.
+(Refer Sample input)
+
+
+Output Format:
+Display the list in both order.
+(Refer sample output)
+
+
+Sample Testcases:
+
+Input 1              Output 1
+
+4                    44  33  22  11  
+11                   11  22  33  44  
+22
+33
+44
+
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing

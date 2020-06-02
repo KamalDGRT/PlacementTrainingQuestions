@@ -1,0 +1,41 @@
+Write a program to create a linked list L.
+
+
+Note:
+The last element from the user should be the first element in the linked list.
+
+
+Input Format:
+The first line of input denotes the list size Ls(n) followed by 
+the elements e1, e2, e3, ... en in the list L in the next line.
+
+
+Output Format:
+Print the elements in linked list L.
+
+
+Code Constraints:
+0  < Ls(n)  <= 10^4
+0  < e1, e2, ... , en <= 10^5
+
+
+Sample Testcases
+
+Input 1                              Output 1
+5                                    90 87 56 34 12 
+12 34 56 87 90
+
+Input 2                              Output 2
+10                                   22 65 90 66 56 11 12 67 45 32 
+32 45 67 12 11 56 66 90 65 22
+
+
+Blacklist : 
+[   ]
+
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing

@@ -1,0 +1,41 @@
+Write a program to interchange two elements of  a linked list L
+from position m to n.
+
+
+Input Format:
+The first line of input denotes list size Ln.
+In second linne, there are 'n' space-separated integer, where each elements
+e1, e2, e3, ... , en are in the list L.
+The last line of input denotes the position m and n.
+
+
+Output Format:
+Prints the reversed list.
+
+
+Code Constraints:
+1  <= Ln  <= 10^5
+1  <= e1, e2, ... , en <= 10^8
+
+
+Sample Testcases
+
+Input 1                              Output 1
+5                                    10 40 30 20 50 60 70 
+10 20 30 40 50
+2 4
+
+Input 2                              Output 2
+10                                   22 65 90 66 56 11 12 67 45 32 
+32 45 67 12 11 56 66 90 65 22
+
+
+Blacklist : 
+[   ]
+
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing
