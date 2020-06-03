@@ -1,0 +1,38 @@
+A linked list is given. Write a code to insert element at the end.
+
+
+Input Format:
+
+Element to be inserted at the end.
+Number of elements in the list.
+List elements separated by space.
+
+Refer Sample Input.
+
+Sample Input Explanation :
+525 is the element to be inserted at the end.
+3 is the number of list elements.
+152, 125, 698 are the elements in list.
+
+
+Output Format :
+List with added element.
+Refer Sample Output.
+
+Sample Output Explanation:
+525 is added at the end of list.
+
+
+Sample Testcases:
+
+Input 1                             Output 1
+525                                 152 125 698 525 
+3
+152 125 698 
+
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing

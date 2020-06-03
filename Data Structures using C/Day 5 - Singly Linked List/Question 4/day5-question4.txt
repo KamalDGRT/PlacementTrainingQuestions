@@ -33,6 +33,8 @@ Input 2                           Output 2
 534 56 21 43 77                   77 43 56 534 
 21
 
+Black list :
+[    ]
 
 Note:
 
