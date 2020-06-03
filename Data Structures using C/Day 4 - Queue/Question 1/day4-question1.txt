@@ -1,0 +1,36 @@
+Racha, the school teacher was about to arrange the school students in 
+ascending height order in a queue. Write a program implementing the queue
+concept to arrange the students standing in the queue based on their height.
+
+
+Input Format :
+
+Input consists on number of students in the queue 'N' ;
+Followed by N number of students' height.
+
+
+Output Format:
+
+Output displays the students' height in ascending order.
+
+
+Sample Testcases
+
+Input 1                         Output 1
+7                               Sorted queue:
+5 4 2 6 1 3 7                   1 2 3 4 5 6 7 
+
+Input 2                         Output 2
+5                               Sorted queue:
+3 5 7 8 4                       3 4 5 7 8 
+
+
+Time Limit : 10 ms
+Memory Limit : 256 kb
+Code Size : 1024 kb
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing
