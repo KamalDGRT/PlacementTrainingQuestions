@@ -1,0 +1,41 @@
+Write a program to delete a node in the singly linked list L.
+
+
+Note:
+The last element from the user should be the first element in the linked list.
+
+
+Input Format:
+The first line of input denotes the list size Ls(n) followed by 
+the elements e1, e2, e3, ... en in the list L in the next line.
+The last line of input denotes the element e to be deleted.
+
+
+Output Format :
+Displays the list L after deletion.
+Note: If element is not present in the list, then just print the list.
+
+
+Code Constraints:
+0  < list size  <= 10^5
+0  < e1, e2, ... , en <= 10^8
+
+
+Sample Testcases : 
+
+Input 1                           Output 1
+
+4                                 3 2 1 
+1 2 3 4
+4
+
+Input 2                           Output 2
+534 56 21 43 77                   77 43 56 534 
+21
+
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing
