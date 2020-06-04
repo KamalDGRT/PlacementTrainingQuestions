@@ -1,0 +1,64 @@
+Kodaikanal is a popular hill station in Tamil Nadu. There is a museum and a 
+park for safari riding. There are many passengers and 'n' single-passengers 
+cars. Passengers wander around the museum for a a while and then line up at the
+park gate to take a ride in a safari car. Note that each passenger is allowed 
+for one ride only.
+
+When a car is available, it loads the one passenger it can hold and rides 
+the park for a specific amount of time say 'p'. If all the 'n' cars are out 
+riding passengers around, then a passenger who wants to ride waits; if a car 
+is ready to load but there are no waiting passengers, then the car waits. 
+After every 'r' units of time one passenger from the museum gets ready to 
+take the safari car ride.
+
+Assume that the park is open for 'k' units of time. Write a program to find 
+the status of the passengers after k units of time.
+
+
+Input format :
+First line of input contains the following :
+Number of safari cars,
+Number of passengers in museum at time zero,
+Number of passengers at park gate ready for ride at time zero,
+p,
+r,
+k
+separated by space.
+
+The input to this program is the total number of safari cars available 
+in the park 'n'. The number of passengers wandering in the museum 'm' and 
+the number of passengers 'q' in the park gate ready to take a ride at time
+zero. The other inputs are the values of 'p', 'r' and 'k'. Note that there
+can be no negative or fractional inputs.
+
+Output format :
+Number of cars waiting at the park gate,
+Number of passengers completed the park ride,
+Number of passengers wandering in the museum,
+Number of passengers still waiting to take a ride respectively.
+The output parameters should be in the above order with one space.
+
+The output of this program is
+the number of cars waiting in the park gate,
+the number of passengers who have completed taking one ride in the park,
+the number of passengers still waiting at the park gate to take a ride and
+the number of passengers still wandering in the museum, respectively,
+after 'k' units of time.
+
+
+Code Constraints:
+0 <= n <= 50
+0 <= m <= 5000
+0 <= q <= 100
+1 <= p <= 100
+1 <= r <= 100
+r <= k <= 100000
+
+Sample testcases
+
+Input 1                     Output 1
+3 20 5 3 1 10               0 9 10 3
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing
