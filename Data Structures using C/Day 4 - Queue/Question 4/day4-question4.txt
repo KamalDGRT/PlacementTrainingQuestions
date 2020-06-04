@@ -36,3 +36,65 @@ Note:
 The program will not be evaluated if "Submit Code" is not done atleast once.
 Extra spaces and new line charactes in the program will also
 result in the testcase failing
+
+//Header Snippet 
+
+#include<stdio.h>
+#include<string.h>
+struct queue {
+    int contents[5];
+    int front;
+    int count;
+};
+
+void initQueue(struct queue *q) {
+// Type your code here
+}
+
+void enQueue(struct queue *q, int element) {
+// Type your code here
+}
+
+void deQueue(struct queue *q) {
+// Type your code here
+}
+
+void display(struct queue q) {
+// Type your code here
+}
+
+
+//Footer Snippet
+int main() {
+    struct queue p;
+    int data, ch, data1;
+    initQueue(&p);
+
+    scanf("%d", &data);
+    enQueue(&p, data);
+
+    scanf("%d", &data);
+    enQueue(&p, data);
+
+    scanf("%d", &data);
+    enQueue(&p, data);
+
+    scanf("%d", &data);
+    enQueue(&p, data);
+
+    scanf("%d", &data);
+    enQueue(&p, data);
+
+    display(p);
+    printf("\n");
+    deQueue(&p);
+    deQueue(&p);
+    display(p);
+    printf("\n");
+    deQueue(&p);
+    deQueue(&p);
+    deQueue(&p);
+    deQueue(&p);
+
+    return 0;
+}
