@@ -1,0 +1,38 @@
+Ramu wants to implement a fixed size queue of maximum size 5 using an array.
+His friend Priya has typed some code and asked Ramu to complete the missing
+code to implement. Help Ramu by writing suitable functions to do the basic 
+operations.
+
+Structure declaration and main functions are already implemented. Write the
+suitable code for functions only.
+
+
+Input format :
+Queue elements one below the other.
+
+
+Output format :
+Display the entire queue in the first line.
+Display remaining queue elements in second line.
+Display empty message in third line as shown in the sample output.
+
+Code constraints:
+Queue size is 5.
+
+Sample testcases
+
+Input 1                 Output 1
+140                     140 255 145 985 215 
+255                     145 985 215 
+145                     Queue is empty
+985
+215
+
+Time Limit : 10 ms
+Memory Limit : 256 kb
+Code Size : 1024 kb
+
+Note:
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing
