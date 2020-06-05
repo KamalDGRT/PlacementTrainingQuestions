@@ -1,0 +1,26 @@
+Akshaya is in her digital laboratory exam. She wants to convert the given
+decimal number to binary. Write a program to obtain a decimal number and
+to convert it to binary.
+
+Input Format :
+Input conists of a decimal number.
+
+Output Format :
+Output conists of the corresponding binary number.
+
+Sample Testcases :
+
+Input 1                     Output 1
+9                           0b1001
+
+
+
+Time Limit : 10 ms
+Memory Limit : 256 kb
+Code Size : 1024 kb
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing.
