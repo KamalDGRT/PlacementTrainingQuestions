@@ -1,0 +1,48 @@
+Pranav and Change
+
+Pranav, an enthusiastic kid visited the "Fun Fair 2017" along with his family.
+His father wanted him to purchase entry tickets from the counter for his
+family members. Being a little kid, he is just learning to understand about 
+units of money. Pranav has paid some amount of money for the tickets but he 
+wants your help to give him back the change of Rs. N using minimum number of
+rupee notes.
+
+Consider a currency system in which there are notes of six denominations, 
+namely, Rs. 1, Rs. 2, Rs. 5, Rs. 10, Rs. 50, Rs. 100. If the change given 
+to Pranav is Rs. N is input, write a program to compute smallest number 
+of notes that will combine to give Rs. N.
+
+Note : Dont use inbuilt loop functions.
+
+Input Format :
+First line of the input is an integer N, the change to be given to Pranav.
+
+Output Format :
+Output should display the smallest number of notes that will combine to give N.
+Refer sample input and output for formatting specifications.
+
+Sample Testcases :
+
+Input 1                     Output 1
+1200                        12
+
+Input 2                     Output 2
+242                         7
+
+
+Black List :
+
+while
+do       
+for
+
+
+Time Limit : 10 ms
+Memory Limit : 256 kb
+Code Size : 1024 kb
+
+Note:
+
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing.
