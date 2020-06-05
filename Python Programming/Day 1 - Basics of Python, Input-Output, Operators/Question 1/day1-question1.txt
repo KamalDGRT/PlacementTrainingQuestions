@@ -1,0 +1,49 @@
+Birthday Challenge
+
+Louis was celebrating his 10th birthday and his parents wished to 
+make his birthday more special by throwing a surprise bash, inviting 
+all their friends, relatives and neighbors. The little mathematics 
+geek Louis has another surprise waiting for him when he had to cut his 
+favorite Choco vanilla cake. The cake is a rectangular cake and it 
+consists of m x n [1 <= m, n <= 1000] squares. His friends now 
+called him out for a challenge.
+
+The challenge is that, Louis has to break the cake up into 1 x 1 pieces 
+[individual squares] and find what is the maximum number of times that 
+he breaks the choco vanilla cake, or pieces thereof, in order to 
+achieve this?
+
+Note that he cannot stack pieces of the cake and break them, because 
+the choco vanilla cake is thick. As an example, a 2x2 cake requires 
+3 breaks. First he can break it in half, then break each of the halves 
+in half. He cannot break it in half, stack the two 1x2 pieces, and then 
+use only one more break to achieve this goal.
+
+Input Format :
+First line of the input consists of an integer, the dimensions 'm' of the 
+choco vanilla cake.
+Second line of the input consists of an integer, the dimensions 'n' of 
+the choco vanilla cake.
+
+
+Output Format :
+Output the minimum number of times that he breaks the choco vanilla cake.
+
+
+Sample Testcases :
+
+Input 1                     Output 1
+2                           3
+2
+
+Input 2                     Output 2
+1                           1
+
+Time Limit : 10 ms
+Memory Limit : 256 kb
+Code Size : 1024 kb
+
+Note :
+The program will not be evaluated if "Submit Code" is not done atleast once.
+Extra spaces and new line charactes in the program will also
+result in the testcase failing.
