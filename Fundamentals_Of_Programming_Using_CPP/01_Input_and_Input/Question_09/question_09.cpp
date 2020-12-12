@@ -1,12 +1,12 @@
-// ASCII Values I
+// ASCII Values II
 
 #include <iostream>
 
 using namespace std;
 
 int main() {
-    char character;
+    int character;
     cin >> character;
-    cout << (int)character;
+    cout << (char)character;
     return 0;
 }
