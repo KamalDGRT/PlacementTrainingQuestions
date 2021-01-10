@@ -51,27 +51,3 @@ oracle
 error
 rohit
 ```
-
-### Sample Input 3:
-
-```
-
-```
-
-### Sample Output 3:
-
-```
-
-```
-
-### Sample Input 4:
-
-```
-
-```
-
-### Sample Output 4:
-
-```
-
-```
