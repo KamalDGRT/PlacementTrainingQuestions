@@ -24,13 +24,13 @@ malayalam
 malayalam is pallindrome
 ```
 
-# Input 2
+### Input 2
 
 ```
 raser
 ```
 
-# Input 3
+### Output 2
 
 ```
 raser is not a pallindrome
