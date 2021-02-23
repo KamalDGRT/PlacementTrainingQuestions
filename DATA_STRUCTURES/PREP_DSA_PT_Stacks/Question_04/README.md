@@ -31,3 +31,16 @@ Expression length <= 100
 (f+d){
 NOT BALANCED
 ```
+
+### Input 2
+
+```
+{d-f}
+```
+
+### Output 2
+
+```
+{d-f}
+BALANCED
+````
