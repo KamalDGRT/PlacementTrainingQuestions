@@ -418,5 +418,227 @@
             <td> <a href="Day_10/04_Shopping_in_Clusters"> Shopping in Clusters </a> </td>
             <td> <a href="Day_10/04_Shopping_in_Clusters/solution.c"> Solution </a> </td>
         </tr>
+        <tr>
+            <td>69</td>
+            <td>11</td>
+            <td> <a href="Day_11/01_Revising_the_Select_Query_I"> Revising the Select Query I </a> </td>
+            <td> <a href="Day_11/01_Revising_the_Select_Query_I/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>70</td>
+            <td>11</td>
+            <td> <a href="Day_11/02_Revising_the_Select_Query_II"> Revising the Select Query II </a> </td>
+            <td> <a href="Day_11/02_Revising_the_Select_Query_II/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>71</td>
+            <td>11</td>
+            <td> <a href="Day_11/03_Select_All"> Select All </a> </td>
+            <td> <a href="Day_11/03_Select_All/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>72</td>
+            <td>11</td>
+            <td> <a href="Day_11/04_Select_By_ID"> Select By ID </a> </td>
+            <td> <a href="Day_11/04_Select_By_ID/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>73</td>
+            <td>11</td>
+            <td> <a href="Day_11/05_Higher_Than_75_Marks"> Higher Than 75 Marks </a> </td>
+            <td> <a href="Day_11/05_Higher_Than_75_Marks/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>74</td>
+            <td>11</td>
+            <td> <a href="Day_11/06_Employee_Names"> Employee Names </a> </td>
+            <td> <a href="Day_11/06_Employee_Names/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>75</td>
+            <td>11</td>
+            <td> <a href="Day_11/07_Employee_Salaries"> Employee Salaries </a> </td>
+            <td> <a href="Day_11/07_Employee_Salaries/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>76</td>
+            <td>11</td>
+            <td> <a href="Day_11/08_Average_Population"> Average Population </a> </td>
+            <td> <a href="Day_11/08_Average_Population/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>77</td>
+            <td>11</td>
+            <td> <a href="Day_11/09_Population_Density_Difference"> Population Density Difference </a> </td>
+            <td> <a href="Day_11/09_Population_Density_Difference/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>78</td>
+            <td>11</td>
+            <td> <a href="Day_11/10_Top_Competitors"> Top Competitors </a> </td>
+            <td> <a href="Day_11/10_Top_Competitors/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>79</td>
+            <td>11</td>
+            <td> <a href="Day_11/11_SQL_Project_Planning"> SQL Project Planning </a> </td>
+            <td> <a href="Day_11/11_SQL_Project_Planning/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>80</td>
+            <td>11</td>
+            <td> <a href="Day_11/12_Occupations"> Occupations </a> </td>
+            <td> <a href="Day_11/12_Occupations/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>81</td>
+            <td>11</td>
+            <td> <a href="Day_11/13_Databases_Relational_Calculus"> Databases - Relational Calculus </a> </td>
+            <td> <a href="Day_11/13_Databases_Relational_Calculus/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>82</td>
+            <td>11</td>
+            <td> <a href="Day_11/14_Databases_Keys"> Databases - Keys </a> </td>
+            <td> <a href="Day_11/14_Databases_Keys/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>83</td>
+            <td>11</td>
+            <td> <a href="Day_11/15_Basics_of_Sets_and_Relations_1"> Basics of Sets and Relations #1 </a> </td>
+            <td> <a href="Day_11/15_Basics_of_Sets_and_Relations_1/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>84</td>
+            <td>11</td>
+            <td> <a href="Day_11/16_Basics_of_Sets_and_Relations_2"> Basics of Sets and Relations #2 </a> </td>
+            <td> <a href="Day_11/16_Basics_of_Sets_and_Relations_2/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>85</td>
+            <td>11</td>
+            <td> <a href="Day_11/17_Basics_of_Sets_and_Relations_3"> Basics of Sets and Relations #3 </a> </td>
+            <td> <a href="Day_11/17_Basics_of_Sets_and_Relations_3/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>86</td>
+            <td>11</td>
+            <td> <a href="Day_11/18_Basics_of_Sets_and_Relations_4"> Basics of Sets and Relations #4 </a> </td>
+            <td> <a href="Day_11/18_Basics_of_Sets_and_Relations_4/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>87</td>
+            <td>11</td>
+            <td> <a href="Day_11/19_Weather_Observation_Station_1"> Weather Observation Station 1 </a> </td>
+            <td> <a href="Day_11/19_Weather_Observation_Station_1/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>88</td>
+            <td>11</td>
+            <td> <a href="Day_11/20_Weather_Observation_Station_2"> Weather Observation Station 2 </a> </td>
+            <td> <a href="Day_11/20_Weather_Observation_Station_2/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>89</td>
+            <td>11</td>
+            <td> <a href="Day_11/21_Weather_Observation_Station_3"> Weather Observation Station 3 </a> </td>
+            <td> <a href="Day_11/21_Weather_Observation_Station_3/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>90</td>
+            <td>11</td>
+            <td> <a href="Day_11/22_Weather_Observation_Station_4"> Weather Observation Station 4 </a> </td>
+            <td> <a href="Day_11/22_Weather_Observation_Station_4/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>91</td>
+            <td>11</td>
+            <td> <a href="Day_11/23_Weather_Observation_Station_5"> Weather Observation Station 5 </a> </td>
+            <td> <a href="Day_11/23_Weather_Observation_Station_5/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>92</td>
+            <td>11</td>
+            <td> <a href="Day_11/24_Weather_Observation_Station_6"> Weather Observation Station 6 </a> </td>
+            <td> <a href="Day_11/24_Weather_Observation_Station_6/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>93</td>
+            <td>11</td>
+            <td> <a href="Day_11/25_Weather_Observation_Station_7"> Weather Observation Station 7 </a> </td>
+            <td> <a href="Day_11/25_Weather_Observation_Station_7/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>94</td>
+            <td>11</td>
+            <td> <a href="Day_11/26_Weather_Observation_Station_8"> Weather Observation Station 8 </a> </td>
+            <td> <a href="Day_11/26_Weather_Observation_Station_8/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>95</td>
+            <td>11</td>
+            <td> <a href="Day_11/27_Weather_Observation_Station_9"> Weather Observation Station 9 </a> </td>
+            <td> <a href="Day_11/27_Weather_Observation_Station_9/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>96</td>
+            <td>11</td>
+            <td> <a href="Day_11/28_Weather_Observation_Station_10"> Weather Observation Station 10 </a> </td>
+            <td> <a href="Day_11/28_Weather_Observation_Station_10/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>97</td>
+            <td>11</td>
+            <td> <a href="Day_11/29_Weather_Observation_Station_11"> Weather Observation Station 11 </a> </td>
+            <td> <a href="Day_11/29_Weather_Observation_Station_11/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>98</td>
+            <td>11</td>
+            <td> <a href="Day_11/30_Weather_Observation_Station_12"> Weather Observation Station 12 </a> </td>
+            <td> <a href="Day_11/30_Weather_Observation_Station_12/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>99</td>
+            <td>11</td>
+            <td> <a href="Day_11/31_Weather_Observation_Station_13"> Weather Observation Station 13 </a> </td>
+            <td> <a href="Day_11/31_Weather_Observation_Station_13/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>100</td>
+            <td>11</td>
+            <td> <a href="Day_11/32_Weather_Observation_Station_14"> Weather Observation Station 14 </a> </td>
+            <td> <a href="Day_11/32_Weather_Observation_Station_14/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>101</td>
+            <td>11</td>
+            <td> <a href="Day_11/33_Weather_Observation_Station_15"> Weather Observation Station 15 </a> </td>
+            <td> <a href="Day_11/33_Weather_Observation_Station_15/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>11</td>
+            <td> <a href="Day_11/34_Weather_Observation_Station_16"> Weather Observation Station 16 </a> </td>
+            <td> <a href="Day_11/34_Weather_Observation_Station_16/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>103</td>
+            <td>11</td>
+            <td> <a href="Day_11/35_Weather_Observation_Station_17"> Weather Observation Station 17 </a> </td>
+            <td> <a href="Day_11/35_Weather_Observation_Station_17/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>104</td>
+            <td>11</td>
+            <td> <a href="Day_11/36_Weather_Observation_Station_19"> Weather Observation Station 19 </a> </td>
+            <td> <a href="Day_11/36_Weather_Observation_Station_19/solution.sql"> Solution </a> </td>
+        </tr>
+        <tr>
+            <td>105</td>
+            <td>11</td>
+            <td> <a href="Day_11/37_Weather_Observation_Station_20"> Weather Observation Station 20 </a> </td>
+            <td> <a href="Day_11/37_Weather_Observation_Station_20/solution.sql"> Solution </a> </td>
+        </tr>
     </tbody>
 </table>
